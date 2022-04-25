@@ -61,7 +61,7 @@
 .links:hover {
   /* color:rgb(121, 189, 252); */
   color: rgb(121, 189, 252);
-  text-decoration: underline;
+  zoom: 1.5x;
 }
 .fas:hover {
   color: rgb(41, 152, 255);
