@@ -85,10 +85,18 @@ class Education extends Component {
                           <MdWork />
                         </div>
                         <div className={classes.label}>
-                          <h2>Work</h2>
+                          <h2>
+                            Work <span>2021-Date</span>
+                          </h2>
                           <p>
-                            Worked with Mul-t-lock Nigeria Ltd using Html, CSS,
-                            Django, and Jquery.
+                            Worked with Mul-t-lock Nigeria Ltd as a junior fullstack developer using Html, CSS,
+                            Django, and Jquery. (February 2021 - July 2021)
+                            <hr />
+                            Worked as a Frontend developer at Mysogi nigeria limited, building web applications
+                            using ReactJs. (January 2022 - August 2022)
+                            <hr />
+                            I am working as a software engineer at Hanspet technologies, building web and mobile application
+                            UI using ReactJs and React Native. (December 2021 - Date)
                           </p>
                         </div>
                         <div className={classes.timeline_entry_inner}>

@@ -42,9 +42,9 @@ class Interest extends Component {
               <div className={classes.app}>
                 <h3>Web Development</h3>
                 <p>
-                  I am a frontend developer, I build websites using HTML, CSS,
-                  Javascript, ReactJs.
-                  <br /> I also have a good grasp on Node, Django and MySQL
+                  I am a frontend developer, I build websites using HTML5, CSS,
+                  Javascript, ReactJs, React Native.
+                  <br /> I also have a good grasp on Node, Django and Relational databases
                 </p>
               </div>
             </ScrollAnimation>
