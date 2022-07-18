@@ -38,11 +38,13 @@ class Education extends Component {
                         </div>
                         <div className={classes.label}>
                           <h2>
-                            Higher Education <span>2015-2021</span>
+                            Higher Education <span>2015-date</span>
                           </h2>
                           <p>
                             I completed my higher education at covenant
-                            university with a major in Electronics.{" "}
+                            university with a major in Electronics. (August 2015 - April 2021)
+                            <hr /> I am currently pursuing a master's degree in
+                            advanced computing at morgan state university. (August 2022)
                           </p>
                         </div>
                       </article>
@@ -89,14 +91,17 @@ class Education extends Component {
                             Work <span>2021-Date</span>
                           </h2>
                           <p>
-                            Worked with Mul-t-lock Nigeria Ltd as a junior fullstack developer using Html, CSS,
-                            Django, and Jquery. (February 2021 - July 2021)
+                            Worked with Mul-t-lock Nigeria Ltd as a junior
+                            fullstack developer using Html, CSS, Django, and
+                            Jquery. (February 2021 - July 2021)
                             <hr />
-                            Worked as a Frontend developer at Mysogi nigeria limited, building web applications
-                            using ReactJs. (January 2022 - August 2022)
-                            <hr />
-                            I am working as a software engineer at Hanspet technologies, building web and mobile application
-                            UI using ReactJs and React Native. (December 2021 - Date)
+                            Worked as a Frontend developer at Mysogi nigeria
+                            limited, building web applications using ReactJs.
+                            (January 2022 - August 2022)
+                            <hr />I am working as a software engineer at Hanspet
+                            technologies, building web and mobile application UI
+                            using ReactJs and React Native. (December 2021 -
+                            Date)
                           </p>
                         </div>
                         <div className={classes.timeline_entry_inner}>
